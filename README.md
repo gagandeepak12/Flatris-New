@@ -13,4 +13,4 @@ Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat desi
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 
 
-Testing my GitHUb
+Testing my GitHUb with a new Branch now
